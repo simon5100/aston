@@ -1,0 +1,14 @@
+package module3.chain_of_responsibility;
+
+public enum PositionName {
+    HEAD_DEPARTMENT,
+    DEPUTY_HEAD_DEPARTMENT,
+    HEAD_DIVISION,
+    DEPUTY_HEAD_DIVISION,
+    CONSULTANT,
+    LEAD_SPECIALIST,
+    LEAD_EXPERT,
+    ECONOMIST_1ST_CATEGORY,
+    SENIOR_ENGINEER;
+
+}
