@@ -8,5 +8,4 @@ public enum StatementType {
     UNPAID_VACATION,
     STUDY_LEAVE,
     APPLICATION_LEAVE;
-
 }
