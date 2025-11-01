@@ -9,7 +9,7 @@ public class TaekwondoPractitionerDecorator implements TaekwondoPractitioner {
     }
 
     @Override
-    public void showСombination() {
-        taekwondoPractitioner.showСombination();
+    public String showСombination() {
+       return taekwondoPractitioner.showСombination();
     }
 }
