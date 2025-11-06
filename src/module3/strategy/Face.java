@@ -1,7 +1,5 @@
 package module3.strategy;
 
-import java.util.UUID;
-
 public class Face implements AuthenticationStrategy{
 
     @Override
